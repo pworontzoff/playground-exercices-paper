@@ -1,4 +1,69 @@
-title: Simple C Template
+title: Exercices Paper
 plan:
-- title: C Snippet
-  statement: statement.md
+- title: Paper
+  statement: markdowns/welcome.md
+- title: Exercice 1
+  statement: markdowns/ex1.md
+- title: Exercice 2
+  statement: markdowns/ex2.md
+- title: Exercice 3
+  statement: markdowns/ex3.md
+- title: Exercice 4
+  statement: markdowns/ex4.md
+- title: Repeat
+  statement: markdowns/repeat.md
+- title: Exercice 5
+  statement: markdowns/ex5.md
+- title: Exercice 6
+  statement: markdowns/ex6.md
+- title: Exercice 7
+  statement: markdowns/ex7.md
+- title: Exercice 8
+  statement: markdowns/ex8.md
+- title: Les fonctions
+  statement: markdowns/function.md   
+- title: Exercice 9
+  statement: markdowns/ex9.md
+- title: Exercice 10
+  statement: markdowns/ex10.md
+- title: Exercice 11
+  statement: markdowns/ex11.md
+- title: Les fonctions avec paramètre(s)
+  statement: markdowns/function_param.md
+- title: Exercice 12
+  statement: markdowns/ex12.md
+- title: Exercice 13
+  statement: markdowns/ex13.md  
+- title: Exercice 14 (facultatif)
+  statement: markdowns/ex14.md
+projects:
+  paper:
+    root: /sample_paper
+    runner:
+      name: techio/cmake-gcc-runner
+      version: latest
+  repeat:
+    root: /sample_repeat
+    runner:
+      name: techio/cmake-gcc-runner
+      version: latest
+  function:
+    root: /sample_function
+    runner:
+      name: techio/cmake-gcc-runner
+      version: latest
+  function_param:
+    root: /sample_function_param
+    runner:
+      name: techio/cmake-gcc-runner
+      version: latest
+  exercices:
+    root: /exercices
+    runner:
+      name: techio/cmake-gcc-runner
+      version: latest
+  facultatif1:
+    root: /facultatif1
+    runner:
+      name: techio/cmake-gcc-runner
+      version: latest
