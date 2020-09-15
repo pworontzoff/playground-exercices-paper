@@ -32,7 +32,7 @@ plan:
   statement: markdowns/function_param.md
 - title: Exercice 12 sur 13
   statement: markdowns/ex12.md
-- title: Exercice 13
+- title: Exercice 13 sur 13
   statement: markdowns/ex13.md
 - title: Exercice 14 (facultatif)
   statement: markdowns/ex14.md
