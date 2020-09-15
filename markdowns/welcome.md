@@ -9,7 +9,8 @@ Voici également quelques questions générales auxquelles il vous est demandé 
 - Préciser en quelques phrases ce qui a pu provoquer cet affichage?
 - Indiquer l’instruction (la ligne) qui a provoqué l’erreur ?
 
-Pour chaque exercice, il peut être nécessaire de se positionner avant de colorier. A l’initialisation, on se trouve sur la case `0,0` tout en haut à gauche. Au terme de chaque exécution indiquer les coordonnées de la case courante.
+Pour chaque exercice, il peut être nécessaire de se positionner avant de colorier. A l’initialisation, on se trouve sur la case `0,0` tout en haut à gauche.
+.
 
 ## Manipuler les papers
 
