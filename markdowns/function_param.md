@@ -20,7 +20,8 @@ Et pour donner une valeur (6, ici) à `a`, cela se fait dans l'appel de la fonct
 ma_fonction(6);
 ```
 
-S'il y a plusieurs paramètres, on les sépares avec des virgules. Par exemple :
+
+NB : S'il y a plusieurs paramètres, on les sépares avec des virgules. Par exemple :
 ```C
 void ma_fonction(int a, int b) {
 	...
