@@ -4,7 +4,7 @@ plan:
   statement: markdowns/welcome.md
 - title: Exercice 1 sur 13
   statement: markdowns/ex1.md
-- title: Exercice 2
+- title: Exercice 2  sur 13
   statement: markdowns/ex2.md
 - title: Exercice 3
   statement: markdowns/ex3.md
