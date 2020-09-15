@@ -13,6 +13,12 @@ void ma_fonction(int a) {
 }
 ```
 
+Le prototype d'une fonction avec paramètre s'écrira (usuellement) :
+```C
+void ma_fonction(int);
+```
+
+
 Les instructions de cette fonction pourront alors utiliser `a` comme une variable de type `int`.
 
 Et pour donner une valeur (6, ici) à `a`, cela se fait dans l'appel de la fonction :
