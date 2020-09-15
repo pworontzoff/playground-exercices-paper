@@ -9,7 +9,7 @@ Ecrivez le programme contenant dans une variable le nombre de colonne du paper (
 
 Une variable est une zone de la mémoire qui contient des informations (des données).
 
-Nous aurons besoin de retenir uniquement un nombre dans notre programme.
+Nous aurons besoin de retenir et utiliser uniquement un nombre entier dans notre variable.
 
 Pour cela, nous pourrons déclarer une variable nommée `nCol` (ou tout autre nom suffisamment explicite et permis en C) qui contiendra le nombre de colonnes à dessiner :
 ```C
