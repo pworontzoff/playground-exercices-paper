@@ -6,7 +6,7 @@ Les fonctions permettent, notemment, d'améliorer la lisibilité du code et évi
 
 Celles-ci peuvent également être paramétrées.
 
-La portion de code ci-dessous défini une fonction nommée `ma_fonction` avec un paramètre nommé `a` de type `int` :
+La portion de code ci-dessous définit une fonction nommée `ma_fonction` avec un paramètre nommé `a` de type `int` :
 ```C
 void ma_fonction(int a) {
 	...
