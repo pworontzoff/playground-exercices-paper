@@ -4,7 +4,7 @@
 
 Les fonctions permettent, notamment, d'améliorer la lisibilité du code et évite de multiplier les copies des mêmes portions de code dans un programme et à travers plusieurs programmes.
 
-Le principe consiste à *définir* une fonction, qui contient les instructions à suivre lorsque cette fonction sera *appelée*
+Le principe consiste à *définir* une fonction, qui contient les instructions à suivre lorsque cette fonction sera *appelée*.
 
 La portion de code ci-dessous *définit* une fonction nommée `ma_fonction` :
 ```C
