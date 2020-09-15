@@ -24,7 +24,7 @@ int main()
 }
 ```
 
-! Il faudra calculer le nombre de colonnes totales du Paper en fonction de cette variable `nCol`, pour cela on peut notamment multiplier avec le signe `*` et soustraire avec le signe `-`.
+! Il faudra calculer le nombre total de colonnes du Paper en fonction de cette variable `nCol`, pour cela on peut notamment multiplier avec le signe `*` et soustraire avec le signe `-`.
 
 
 ![motif](img/ex8.JPG)
