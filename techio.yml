@@ -22,7 +22,7 @@ plan:
   statement: markdowns/ex8.md
 - title: Les fonctions
   statement: markdowns/function.md
-- title: Exercice 9
+- title: Exercice 9 sur 13
   statement: markdowns/ex9.md
 - title: Exercice 10
   statement: markdowns/ex10.md
