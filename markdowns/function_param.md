@@ -35,7 +35,7 @@ void ma_fonction(int a, int b) {
 ```
 
 ```C
-ma_fonction(6);
+ma_fonction(6, 8);
 ```
 
 
