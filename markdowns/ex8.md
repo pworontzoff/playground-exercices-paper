@@ -11,4 +11,4 @@
 Répondre aux questions
 - des portions de code sont-elles répétées ? Que répète-t-on ?
 - La répétition est-elle facilement identifiable à la première lecture/vue du code ?
-- Que peut-on faire pour améliorer la lisibilité du code du dernier laboratoire du labo 2 et ne pas réécrire à chaque fois les portions répétées ?
+- Que peut-on faire pour améliorer la lisibilité du code de cet exercice et ne pas réécrire chaque instruction des portions répétées ?
