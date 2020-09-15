@@ -13,7 +13,7 @@ void ma_fonction() {
 }
 ```
 
-Une fonction s'écrira usuellement en dessous de :
+Une nouvelle fonction s'écrira usuellement en dessous de :
 ```C
 int main()
 {
