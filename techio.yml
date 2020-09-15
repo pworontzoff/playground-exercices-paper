@@ -26,7 +26,7 @@ plan:
   statement: markdowns/ex9.md
 - title: Exercice 10 sur 13
   statement: markdowns/ex10.md
-- title: Exercice 11
+- title: Exercice 11 sur 13
   statement: markdowns/ex11.md
 - title: Les fonctions avec paramètre(s)
   statement: markdowns/function_param.md
