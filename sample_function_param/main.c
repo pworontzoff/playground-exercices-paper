@@ -21,22 +21,24 @@ int main()
 // Définition de la fonction 'raw_los' avec un paramère 'size' :
 void draw_los(int size) {
     
-    repeat(size) {
+    colorize();
+    
+    repeat(size-1) {
         colorize();
         move_up();
         move_right();
     }
-    repeat(size) {
+    repeat(size-1) {
         colorize();
         move_down();
         move_right();
     }
-    repeat(size) {
+    repeat(size-1) {
         colorize();
         move_down();
         move_left();
     }
-    repeat(size) {
+    repeat(size-1) {
         colorize();
         move_up();
         move_left();
