@@ -9,10 +9,10 @@ int main()
     init_paper(20,20,25);
 
     move_to(3,2);
-    draw_los(2); // appel de la fonction avec 2 comme valeur de paramètre
+    draw_los(3); // appel de la fonction avec 2 comme valeur de paramètre
 
     move_to(10,5);
-    draw_los(5); // appel de la fonction avec 5 comme valeur de paramètre
+    draw_los(6); // appel de la fonction avec 5 comme valeur de paramètre
 
     display_paper();
     return 0;
