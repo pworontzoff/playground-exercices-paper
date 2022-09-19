@@ -1,7 +1,12 @@
 # Exercice 9
 
 ## 1. Réaliser le motif ci-dessous
-Pour le faire il faut (ATTENTION le paper fait toujours 5 de haut) :
+
+![motif](img/ex8.JPG)
+
+(ATTENTION le paper fait toujours 5 case de haut !)
+
+Pour ce faire, il faudra obligatoirement :
 + Écrire une fonction permettant de colorier une colonne. (Penser que l'on pourrait réutiliser cette fonction à n'importe quelle colonne du paper (curseur toujours en 1ère ligne évidemment)...)
 + Écrire une fonction permettant d'espacer les colonnes.
 + Écrire le programme permettant de dessiner le motif demandé en appelant (éventuellement plusieurs fois, bien entendu) ces 2 fonctions.
@@ -29,7 +34,7 @@ int main()
 
 ! Il faudra calculer le nombre total de colonnes du Paper en fonction de cette variable `n`, pour cela on peut notamment multiplier avec le signe `*` et soustraire avec le signe `-`.
 
-
+Rappel du motif :
 ![motif](img/ex8.JPG)
 
 @[Exercice 9]({"stubs": ["main.c"],"command": "sh /project/target/run.sh", "project" : "exercices"})
