@@ -34,7 +34,7 @@ int main()
 
 ! Il faudra calculer le nombre total de colonnes du Paper en fonction de cette variable `n`, pour cela on peut notamment multiplier avec le signe `*` et soustraire avec le signe `-`.
 
-Rappel du motif :
+Rappel du motif (avec n=3 pour la version 2) :
 ![motif](img/ex8.JPG)
 
 @[Exercice 9]({"stubs": ["main.c"],"command": "sh /project/target/run.sh", "project" : "exercices"})
