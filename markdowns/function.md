@@ -11,7 +11,7 @@ Le principe consiste à *définir* une fonction, qui contient les instructions �
 La portion de code ci-dessous *définit* une fonction nommée `ma_fonction` :
 ```C
 void ma_fonction() {
-	...
+    //...
 }
 ```
 
@@ -31,7 +31,7 @@ int main()
 }
 
 void ma_fonction() {
-	...
+    //...
 }
 ```
 
@@ -58,7 +58,7 @@ int main()
 }
 
 void ma_fonction() {
-	...
+    //...
 }
 ```
 
