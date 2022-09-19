@@ -2,9 +2,9 @@
 
 ## 1. Réaliser le motif ci-dessous
 Pour le faire il faut (ATTENTION le paper fait toujours 5 de haut) :
-a. Écrire une fonction permettant de colorier une colonne. (Penser que l'on pourrait réutiliser cette fonction à n'importe quelle colonne du paper (curseur toujours en 1ère ligne évidemment)...)
-a. Écrire une fonction permettant d'espacer les colonnes.
-a. Écrire le programme permettant de dessiner le motif demandé en appelant (éventuellement plusieurs fois, bien entendu) ces 2 fonctions.
++ Écrire une fonction permettant de colorier une colonne. (Penser que l'on pourrait réutiliser cette fonction à n'importe quelle colonne du paper (curseur toujours en 1ère ligne évidemment)...)
++ Écrire une fonction permettant d'espacer les colonnes.
++ Écrire le programme permettant de dessiner le motif demandé en appelant (éventuellement plusieurs fois, bien entendu) ces 2 fonctions.
 
 ## 2. Généraliser le programme à un nombre n variable de colonnes
 
