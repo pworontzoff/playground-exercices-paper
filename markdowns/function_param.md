@@ -2,14 +2,14 @@
 
 ## Les fonctions avec paramètres
 
-Les fonctions permettent, notemment, d'améliorer la lisibilité du code et évite de multiplier les copies des mêmes portions de code dans un programme et à travers plusieurs programmes.
+Les fonctions permettent, notamment, d'améliorer la lisibilité du code et évite de multiplier les copies des mêmes portions de code dans un programme et à travers plusieurs programmes.
 
 Celles-ci peuvent également être paramétrées.
 
 La portion de code ci-dessous définit une fonction nommée `ma_fonction` avec un paramètre nommé `a` de type `int` :
 ```C
 void ma_fonction(int a) {
-	...
+    //...
 }
 ```
 
@@ -30,11 +30,11 @@ ma_fonction(6);
 NB : S'il y a plusieurs paramètres, on les sépares avec des virgules. Par exemple :
 ```C
 void ma_fonction(int a, int b) {
-	...
+    //...
 }
-```
 
-```C
+//...
+
 ma_fonction(6, 8);
 ```
 
