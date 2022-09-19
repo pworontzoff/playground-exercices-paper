@@ -11,7 +11,7 @@ Pour ce faire, il faudra obligatoirement :
 + Écrire une fonction permettant d'espacer les colonnes.
 + Écrire le programme permettant de dessiner le motif demandé en appelant (éventuellement plusieurs fois, bien entendu) ces 2 fonctions.
 
-## 2. Généraliser le programme à un nombre n variable de colonnes
+## 2. Généraliser le programme à un nombre n (variable) de colonnes
 
 Pour cette version, on garde nos fonctions telles quelles, mais il faut maintent réécrire le programme qu'il appelle ces fonction n fois, avec n étant une variable contenant le nombre de colonnes à dessiner.
 
