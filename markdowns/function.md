@@ -6,6 +6,8 @@ Les fonctions permettent, notamment, d'améliorer la lisibilité du code et évi
 
 Le principe consiste à *définir* une fonction, qui contient les instructions à suivre lorsque cette fonction sera *appelée*.
 
+### Définir une fonction
+
 La portion de code ci-dessous *définit* une fonction nommée `ma_fonction` :
 ```C
 void ma_fonction() {
@@ -59,6 +61,8 @@ void ma_fonction() {
 	...
 }
 ```
+
+### Appeler une fonction
 
 Pour appeler une fonction, on donne son nom suivi d'une paire de parenthèses.
 
