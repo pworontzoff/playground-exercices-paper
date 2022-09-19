@@ -13,7 +13,7 @@ Pour ce faire, il faudra obligatoirement :
 
 ## 2. Généraliser le programme à un nombre n (variable) de colonnes
 
-Pour cette version, on garde nos fonctions telles quelles, mais il faut maintenant réécrire le programme (la fonction main) pour qu'il appelle ces fonction n fois, avec n étant une variable contenant le nombre de colonnes à dessiner.
+Pour cette version, on garde nos fonctions telles quelles, mais il faut maintenant réécrire le programme (la fonction main) pour qu'il appelle ces fonction correctement en boucle de manière à obtenir n colonnes coloriées. Pour cela, on utilisera une variable nommée n contenant le nombre de colonnes à dessiner.
 
 Une variable est une zone de la mémoire qui contient des informations (des données) que l'on peut faire **varier** (d'où le nom de "variable").
 
