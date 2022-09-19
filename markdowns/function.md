@@ -21,7 +21,19 @@ int main()
 }
 ```
 
-La portion de code ci-dessous définit le *prototype* de la fonction ci-dessus nommée `ma_fonction` :
+Ce qui donne donc : 
+```C
+int main()
+{
+    //...
+}
+
+void ma_fonction() {
+	...
+}
+```
+
+La portion de code ci-dessous définit le *prototype* de la fonction (ci-dessus) nommée `ma_fonction` :
 ```C
 void ma_fonction();
 ```
@@ -31,6 +43,20 @@ Un prototype est nécessaire en C (en particulier dans le cas de projets écrits
 int main()
 {
     //...
+}
+```
+
+Ce qui donne donc, au final : 
+```C
+void ma_fonction();
+
+int main()
+{
+    //...
+}
+
+void ma_fonction() {
+	...
 }
 ```
 
