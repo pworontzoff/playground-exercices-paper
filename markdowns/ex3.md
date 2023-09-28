@@ -1,4 +1,4 @@
-# Exercice 3
+# Exercice 3 (facultatif)
 
 ## Réaliser le motif ci-dessous
 
