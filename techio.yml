@@ -6,7 +6,7 @@ plan:
   statement: markdowns/ex1.md
 - title: Exercice 2  sur 13
   statement: markdowns/ex2.md
-- title: Exercice 3  sur 13
+- title: Exercice 3  sur 13 (facultatif)
   statement: markdowns/ex3.md
 - title: Exercice 4  sur 13
   statement: markdowns/ex4.md
@@ -14,7 +14,7 @@ plan:
   statement: markdowns/repeat.md
 - title: Exercice 5 sur 13
   statement: markdowns/ex5.md
-- title: Exercice 6 sur 13
+- title: Exercice 6 sur 13 (facultatif)
   statement: markdowns/ex6.md
 - title: Exercice 7 sur 13
   statement: markdowns/ex7.md
@@ -26,7 +26,7 @@ plan:
   statement: markdowns/ex9.md
 - title: Exercice 10 sur 13
   statement: markdowns/ex10.md
-- title: Exercice 11 sur 13
+- title: Exercice 11 sur 13 (facultatif)
   statement: markdowns/ex11.md
 - title: Les fonctions avec paramètre(s)
   statement: markdowns/function_param.md
