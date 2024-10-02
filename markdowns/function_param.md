@@ -27,7 +27,7 @@ ma_fonction(6);
 ```
 
 
-NB : S'il y a plusieurs paramètres, on les sépares avec des virgules. Par exemple :
+NB : S'il y a plusieurs paramètres, on les sépare avec des virgules. Par exemple :
 ```C
 void ma_fonction(int a, int b) {
     //...
